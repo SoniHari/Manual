@@ -1,3 +1,0 @@
-\* The total number of pending Access Requests in the Calendar Key is incremented by one.
-\* The Access Request is updated in the Calendar (see Calendar Key). 
-\* The Access Request is in the Pending Approval state.
